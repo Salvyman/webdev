@@ -1,0 +1,5 @@
+print("Which city were you born in?")
+city = input()
+print("What type of pet do you have?")
+pet = input()
+print(city + " " + pet)
